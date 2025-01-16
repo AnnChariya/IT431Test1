@@ -8,11 +8,11 @@
     while ($dbarr = mysqli_fetch_array($result)){
         $pgcount = $dbarr["countnum"];
     }
-    $pgcount = $pgcount + 1;
-    $pgcount = "00000" . $pgcount;
-    $pgcount = substr($pgcount, -6);
+    $pgcount = $pgcount + 1; //Kittaphol
+    $pgcount = "00000" . $pgcount; //Kittaphol
+    $pgcount = substr($pgcount, -6); //Kittaphol
     echo "$pgcount";
-
+    
     $sql = "Update counter set countnum = '$pgcount' where id = 1";
     $result = mysqli_query($link,$sql);
 ?>
