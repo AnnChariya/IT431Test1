@@ -7,7 +7,7 @@
                 <?php include "Date.php"; ?>
             </td>
 <<<<<<< HEAD
-            <td width="43" rowspan="2">&nbsp;</td>dddddddddddddddddddddddddddddddddddddssss
+            <td width="43" rowspan="2">&nbsp;</td>ddddddddddddddddddddddddddddddddddddd
 =======
             <td width="43" rowspan="2">&nbsp;</td>
         </tr>
