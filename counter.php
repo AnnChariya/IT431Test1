@@ -1,4 +1,5 @@
 <?php
+    //Helloooooooooooo!!
     $link = mysqli_connect("localhost","root","1234");
     mysqli_set_charset($link,'utf8');
     mysqli_query($link,"Use room;");
