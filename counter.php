@@ -12,6 +12,7 @@
     $pgcount = "00000" . $pgcount;
     $pgcount = substr($pgcount, -6);
     echo "$pgcount";
+    echo "TestTestTest"
 
     $sql = "Update counter set countnum = '$pgcount' where id = 1";
     $result = mysqli_query($link,$sql);
