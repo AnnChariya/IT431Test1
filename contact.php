@@ -1,7 +1,7 @@
 <body bgcolor="#CC9900">
     <table width="1238" height="530" border="0">
         <tr>
-            <td width="23" rowspan="2">&nbsp;</td>
+            <td width="23" rowspan="2">&nbsp;</td>dddddddddddddddddddddddddddddddddddddddddddddddddddddddd
             <td height="119" colspan="2" bgcolor="#006600">
                 <h1><center><font color="#FFFFFF">พรชัยอพาร์ตเมนต์</font></center></h1>
                 <?php include "Date.php"; ?>
