@@ -6,7 +6,7 @@
                 <h1><center><font color="#FFFFFF">พรชัยอพาร์ตเมนต์</font></center></h1>
                 <?php include "Date.php"; ?>
             </td>
-            <td width="43" rowspan="2">&nbsp;</td>ddddddddddddddddddddddddddddddddddddd
+            <td width="43" rowspan="2">&nbsp;</td>ddddddddddddddddddddddddddddddddddddddddd
         </tr>
         <tr>
             <td width="1007" bgcolor="#FFFFFF">
