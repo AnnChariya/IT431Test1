@@ -1,5 +1,6 @@
 <body bgcolor="#CC9900">
     <table width="1238" height="530" border="0">
+		<h>Hi! Everyone This is edit bug</h>
 		<h>Hellooooooooo!!!</h>
         <tr>
             <td width="23" rowspan="2">&nbsp;</td>
